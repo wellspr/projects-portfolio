@@ -11,3 +11,7 @@ export const corsConfig = {
 export const appBrandName = () => {
     return "Projects Portfolio"
 }
+
+export const githubLink = () => {
+    return "https://github.com/wellspr/projects-portfolio";
+};
